@@ -27,7 +27,7 @@
     "rimraf": "^2.5.4"
   },
   "devDependencies": {
-    "standard": "^8.0.0-beta.4",
+    "standard": "^8.1.0",
     "fs-plus": "^2.8.1"
   },
   "package-deps": [
